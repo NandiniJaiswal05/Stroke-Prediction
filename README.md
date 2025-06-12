@@ -62,5 +62,5 @@ Feel free to contribute by:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🔗 Contact
-For queries or contributions, reach out at [Your Email] or connect on [LinkedIn/GitHub].
+For queries or contributions, reach out at [Email](nandinijaiswal783@gmail.com) or connect on [Nandini Jaiswal](https://www.linkedin.com/in/nandini-jaiswal-b18294290/).
 
