@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Stroke-Prediction.git
+   cd Stroke-Prediction
    ```
 2. Install dependencies:
    ```bash
