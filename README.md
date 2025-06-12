@@ -1,4 +1,4 @@
-# Machine Learning from Scratch & Scikit-Learn Simplifications
+###   Stroke Prediction with scikit-learn
 
 ## 📌 Project Overview
 This project demonstrates the **manual implementation of Machine Learning (ML) models** from scratch using Python. It primarily focuses on **data preprocessing, feature engineering, and model training** using a healthcare dataset (stroke prediction). Additionally, the project compares these manual approaches with simpler alternatives using **Scikit-Learn**, making it easier to apply ML in real-world scenarios.
@@ -12,7 +12,7 @@ This project demonstrates the **manual implementation of Machine Learning (ML) m
 
 ## 📊 Dataset Used
 - **Name**: Healthcare Stroke Prediction Dataset
-- **Source**: [Dataset Link (if applicable)]
+- **Source**: [Dataset Link ()]
 - **Description**: Contains patient health details to predict stroke occurrences.
 
 ## 🔧 Setup Instructions
